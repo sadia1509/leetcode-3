@@ -1,4 +1,4 @@
-package src.
+package src.easy;
 
 public class DetectCapital {
     public boolean detectCapitalUse(String word) {
