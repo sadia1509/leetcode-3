@@ -1,4 +1,4 @@
-function detectCapitalUse(word: string): boolean {
+export function detectCapitalUse(word: string): boolean {
     let capitalCount: number = 0;
     for (const ch of word) {
         if (ch === ch.toUpperCase()) {

@@ -1,3 +1,5 @@
+package answers.java.easy;
+
 public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         int maxOnes = 0, currentOnes = 0;

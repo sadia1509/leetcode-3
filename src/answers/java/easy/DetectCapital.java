@@ -1,3 +1,5 @@
+package answers.java.easy;
+
 public class DetectCapital {
     public boolean detectCapitalUse(String word) {
         int capitalCount = 0;
