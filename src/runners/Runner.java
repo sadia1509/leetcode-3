@@ -1,6 +1,6 @@
 package runners;
 
-import answers.java.easy.MaxConsecutiveOnes;
+import answers.java.easy.*;
 
 public class Runner {
     public static void main(String[] args) {
