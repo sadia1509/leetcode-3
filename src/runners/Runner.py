@@ -7,7 +7,6 @@ if __name__ == "__main__":
     if str(repo_src) not in sys.path:
         sys.path.insert(0, str(repo_src))
     print("============ Welcome to PYTHON section ============");
-    
     from answers.python.easy.MaxConsecutiveOnes import MaxConsecutiveOnes
     print("Max consecutive ones:", MaxConsecutiveOnes().findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]))
 
